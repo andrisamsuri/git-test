@@ -1,2 +1,2 @@
-# github-test
-github for testing
+# git-test
+git for testing
