@@ -1,5 +1,5 @@
 …or create a new repository on the command line
-echo "# git-tutorial" >> README.md
+echo "# git-test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
